@@ -6,7 +6,6 @@ This is a React application for playing Tic Tac Toe! Get ready to challenge your
 
 **## Features**
 
-* Play against the computer (coming soon!)
 * Visually appealing board with hover effects.
 * Audio cues for tile clicks and game over.
 * Clear indication of the winner or a draw.
